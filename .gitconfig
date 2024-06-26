@@ -23,3 +23,6 @@
 	recurse = true
 [rerere]
 	enabled = true
+[maintenance]
+	auto = false
+	strategy = incremental
